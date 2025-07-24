@@ -24,6 +24,7 @@
             zig
             zls
             elixir
+            erlang
           ];
         };
       }
